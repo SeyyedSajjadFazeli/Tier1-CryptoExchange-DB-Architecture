@@ -1,0 +1,10 @@
+# Data Manipulation & Vectorization
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Database Connection & ORM
+SQLAlchemy>=2.0.0
+pyodbc>=4.0.39
+
+# Data Generation
+Faker>=19.0.0
